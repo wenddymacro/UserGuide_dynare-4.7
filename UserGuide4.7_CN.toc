@@ -1,0 +1,259 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}About this Guide - approach and structure}{1}{section.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}What are the advanced topics?}{2}{section.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Additional sources of help}{3}{section.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}Nomenclature}{3}{section.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.5}v4.5, what's new and backward compatibility}{4}{section.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Installing Dynare}{8}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Dynare versions}{8}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}System requirements}{8}{section.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Installing Dynare}{8}{section.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}MATLAB particularities}{8}{section.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Solving Steady State - basics}{9}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Analytical Solutions}{9}{section.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Adding new variable one by one}{11}{section.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Calibrating Steady State}{13}{section.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}The External Files of Solving Steady State}{16}{section.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Occasionally Binding Constraints}{17}{chapter.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}OBCs in Macroeconomics}{17}{section.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.1}Borrow Constraints}{19}{subsection.4.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.2}Irreversible Investment}{19}{subsection.4.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.3}ZLB}{21}{subsection.4.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.4}Financial Constraints}{22}{subsection.4.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Numerical Solutions}{22}{section.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1}Computational Challenges}{22}{subsection.4.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.2}Penalty Function}{23}{subsection.4.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.3}OccBin in Dynare}{23}{subsection.4.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.4}Extended\_Path Approach}{30}{subsection.4.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.5}News Shocks Approach}{38}{subsection.4.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.5.1}the basics of dynareOBC usage}{39}{subsubsection.4.2.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.5.2}Estimation of Models with OBCs}{41}{subsubsection.4.2.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.6}Markov-Switching Approach}{43}{subsection.4.2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Solving and Estimating Heterogenous Agent Model}{44}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Introduction}{44}{section.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.1}Heterogeneous agent models: the Minnesota genealogy}{44}{subsection.5.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Gali(2018)'s TANK}{46}{section.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}den Haan and Ocaktan(2011) Approach}{46}{section.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.1}The Model}{46}{subsection.5.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.2}Implementing XPA with Dynare}{48}{subsection.5.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}The LR(2017) Approach}{48}{section.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.5}The Winberry Approach}{48}{section.5.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Optimal Policy and Welfare Analysis}{49}{chapter.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Introduction}{49}{section.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}The Model}{49}{section.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.1}Households}{49}{subsection.6.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.2}Firms}{49}{subsection.6.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.2.2.1}Final Good Firm}{49}{subsubsection.6.2.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.2.2.2}Intermediate Goods Firms}{50}{subsubsection.6.2.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.3}Aggregation}{50}{subsection.6.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.4}Equilibrium}{51}{subsection.6.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.3}What is the quadratic form for the objective function?}{52}{section.6.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3.1}A second order approximation}{52}{subsection.6.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3.2}A derivation of quadratic welfare function}{53}{subsection.6.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.4}Optimal Policy}{54}{section.6.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.1}Optimal Simple Rule}{54}{subsection.6.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.4.1.1}First half of the .mod file}{54}{subsubsection.6.4.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.4.1.2}Computation of Optimal Simple Rule}{56}{subsubsection.6.4.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.4.1.3}Output}{57}{subsubsection.6.4.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.2}Ramsey Policy under Commitment}{57}{subsection.6.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.3}Ramsey Policy under discretion}{62}{subsection.6.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.5}Welfare Analysis}{62}{section.6.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.5.1}Policy Regime Comparison}{63}{subsection.6.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.5.2}Consumption Equivalent}{65}{subsection.6.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Notes on DSGE with Learning}{68}{chapter.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.1}Introduction}{68}{section.7.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.2}The Model}{68}{section.7.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.2.1}Households}{68}{subsection.7.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {7.2.1.1}Lenders}{68}{subsubsection.7.2.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {7.2.1.2}Investors}{69}{subsubsection.7.2.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.2.2}Firms}{70}{subsection.7.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {7.2.2.1}Retail Firm}{70}{subsubsection.7.2.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {7.2.2.2}wholesale Firms}{70}{subsubsection.7.2.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {7.2.2.3}Intermediate Goods Firms}{71}{subsubsection.7.2.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {7.2.2.4}The Capital Producer}{73}{subsubsection.7.2.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.2.3}Aggregation and Market Clearing Conditions}{73}{subsection.7.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Keynesian Growth Synthesis: fluctuation and Growth}{74}{chapter.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.1}Introduction}{74}{section.8.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.2}The Baseline Model}{75}{section.8.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.2.1}Household}{75}{subsection.8.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.2.2}Firms}{76}{subsection.8.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {8.2.2.1}Final goods firms}{76}{subsubsection.8.2.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {8.2.2.2}Intermediate Goods Firms}{76}{subsubsection.8.2.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.2.3}Research and innovation}{77}{subsection.8.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.2.4}Aggregation and market clearing}{79}{subsection.8.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.2.5}Wage rigidities}{79}{subsection.8.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.2.6}Government}{80}{subsection.8.2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.2.7}The Full Equilibrium Conditions}{80}{subsection.8.2.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.2.8}Steady state}{82}{subsection.8.2.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.3}Macroeconomic Implications}{82}{section.8.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.3.1}Parameterization}{82}{subsection.8.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.3.2}Dynare codes}{82}{subsection.8.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.4}The Extended Model}{83}{section.8.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.5}Further Readings}{83}{section.8.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}DSGE with Chaos}{84}{chapter.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.1}Introduction}{84}{section.9.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.2}The Deterministic Case}{84}{section.9.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.3}The Solution Method}{84}{section.9.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.4}The Stochastic Case}{84}{section.9.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.5}Application}{84}{section.9.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {10}Estimation Methods of Moment}{85}{chapter.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.1}GMM}{85}{section.10.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.1.1}Theory on GMM Estimation}{85}{subsection.10.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.1.2}Implementing GMM Estimation in the Dynare}{85}{subsection.10.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.2}SMM}{85}{section.10.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.2.1}Theory on SMM Estimation}{85}{subsection.10.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.2.2}Implementing SMM Estimation in the Dynare}{85}{subsection.10.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10.3}IRF-matching}{85}{section.10.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}dynare的常见问题与解答}{86}{appendix.A}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.1}Model Comparison}{86}{section.A.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.2}Parameter Estimation}{87}{section.A.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.3}Simulation}{93}{section.A.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.4}Steady State}{94}{section.A.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.5}Non-linearity}{94}{section.A.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.6}General Issues}{94}{section.A.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {B}A Matlab Primer}{97}{appendix.B}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.1}基本运算}{97}{section.B.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.2}矩阵运算}{97}{section.B.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.3}冒号的用法}{99}{section.B.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.4}作图}{100}{section.B.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.5}Boolean表达式和循环}{103}{section.B.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.5.1}Boolean表达式}{103}{subsection.B.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.5.2}循环}{103}{subsection.B.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.6}一些有用的内置函数}{106}{section.B.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.6.1}fzero}{106}{subsection.B.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.6.2}fsolve}{108}{subsection.B.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.6.3}参数传递}{109}{subsection.B.6.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.6.4}csolve}{110}{subsection.B.6.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.6.5}broyden}{110}{subsection.B.6.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.7}自定义函数}{111}{section.B.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.8}读取数据}{115}{section.B.8}%
